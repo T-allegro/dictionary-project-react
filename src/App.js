@@ -1,4 +1,5 @@
 import './App.css';
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
@@ -8,7 +9,13 @@ function App() {
         <h1>
          DICTIONARY
        </h1>
+       <main>
+         <Dictionary />
+       </main>
       </header>
+      <footer className="App-footer">
+        Coded by Teresa Allegro
+      </footer>
       </div>
     </div>
   );
