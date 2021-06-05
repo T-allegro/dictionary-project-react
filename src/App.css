@@ -1,9 +1,16 @@
-.App-header {
-  text-align: center;
+body {
+  background: #edbed5;
 }
 
 .App-footer {
   text-align: center;
   font-size: 10px;
   margin: 30px
+}
+
+.App h1{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
 }
