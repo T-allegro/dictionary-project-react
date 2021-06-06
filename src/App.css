@@ -2,6 +2,12 @@ body {
   background: #edbed5;
 }
 
+.App {
+  max-width: 930px;
+  margin: 0 auto;
+
+}
+
 .App-footer {
   text-align: center;
   font-size: 10px;
