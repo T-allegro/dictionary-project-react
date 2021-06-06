@@ -1,5 +1,5 @@
 body {
-  background: #edbed5;
+  background-image: url(https://images.pexels.com/photos/4321069/pexels-photo-4321069.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
 }
 
 .App {
@@ -15,7 +15,7 @@ body {
 }
 
 .App h1{
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
   text-align: center;
   padding: 20px;
