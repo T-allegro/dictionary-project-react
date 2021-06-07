@@ -1,13 +1,13 @@
 .Phonetic{
     height: 40px;
 }
-.Phonetic a {
-    text-decoration: none;
+.Phonetic button {
+    border: none;
     padding: 5px;
     margin-right:5px ;
     color: #bf5088 ;
 }
-.Phonetic a:hover {
+.Phonetic button:hover {
     background-color: #bf5088;
     color: white;
 
