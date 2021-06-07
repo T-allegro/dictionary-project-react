@@ -3,10 +3,8 @@
 }
 .Phonetic a {
     text-decoration: none;
-    border: 1px solid #bf5088;
-    border-radius: 10px;
     padding: 5px;
-    margin-right:10px ;
+    margin-right:5px ;
     color: #bf5088 ;
 }
 .Phonetic a:hover {
